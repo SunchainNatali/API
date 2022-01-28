@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4E067436-8029-4269-BADF-E2F246B5F8C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="25.01.22Api/ApiHelper.cs">
+    <Files>
+      <File FileName="25.01.22Api/ApiHelper.cs" Line="80" Column="1" />
+      <File FileName="25.01.22Api/UnitTest1.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="25.01.22Api" expanded="True">
+            <Node name="25.01.22Api" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.25.01.22Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
